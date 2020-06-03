@@ -1,0 +1,27 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+>> NOTE : (for admin panel, login from the user's login)
+>>Enter the following details in Login for Admin Panel.
+
+Username: admin@admin.com
+Password: password
+
+USER LOGIN:
+
+Username: harry@den.com
+Password: code0
+
+DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "database" FOLDER!
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+#THANK YOU FOR DOWNLOADING
